@@ -45,7 +45,7 @@ python whatsapp_scheduler.py
 ## Uso
 
 1. **Ingresar datos**:
-   - Ingresa los números de teléfono separados por comas en el campo correspondiente. Asegúrate de incluir el código de país (por ejemplo, `+5491131616030`).
+   - Ingresa los números de teléfono separados por comas en el campo correspondiente. Asegúrate de incluir el código de país (por ejemplo, `+5491121234567` en el caso de Argentina +54).
    - Selecciona un mensaje predefinido de la lista desplegable o escribe tu propio mensaje en el área de texto.
    - Configura el horario y la fecha en la que deseas enviar los mensajes. El formato del horario debe ser `HH:MM` (24 horas).
 
