@@ -62,7 +62,7 @@ python whatsapp_scheduler.py
 ## Capturas de Pantalla
 
 ### Interfaz Gráfica
-![Interfaz del Programa] (Interfaz EnviarMensajeWpp.png)
+![Interfaz del Programa] (https://github.com/LoBBiiTo/SchedulePython/blob/40043c16793a23bbb5fe4bebe881bae7442f1c84/Interfaz%20EnviarMensajeWpp.png)
 
 
 ## Contribuciones
