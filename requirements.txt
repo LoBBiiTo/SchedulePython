@@ -1,0 +1,6 @@
+schedule
+pywhatkit
+tkinter
+tkcalendar
+plyer
+pyautogui
