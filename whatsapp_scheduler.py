@@ -21,7 +21,7 @@ def enviar_mensaje_whatsapp(numero, mensaje, progress_bar, status_label):
         pywhatkit.sendwhatmsg_instantly(f"+{numero}", mensaje, wait_time=10)
         
         # Simula presionar la tecla "Enter" para enviar el mensaje automáticamente
-        time.sleep(2)  # Espera 5 segundos para asegurarse de que el mensaje esté escrito
+        time.sleep(2)  # Espera 2 segundos para asegurarse de que el mensaje esté escrito
         pyautogui.press('enter')  # Presiona la tecla "Enter" para enviar el mensaje
         
         print(f"Mensaje enviado a {numero}: {mensaje}")
