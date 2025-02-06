@@ -28,10 +28,10 @@ Antes de ejecutar el programa, asegúrate de cumplir con los siguientes requisit
 ## Instalación
 
 1. **Clona este repositorio**:
-   ```bash
-   git clone https://github.com/LoBBiiTo/programador-mensajes-whatsapp.git
-   cd programador-mensajes-whatsapp
-   ```
+```bash
+git clone https://github.com/LoBBiiTo/programador-mensajes-whatsapp.git
+cd programador-mensajes-whatsapp
+```
 
 2. **Instala las dependecias:**
 ```bash
